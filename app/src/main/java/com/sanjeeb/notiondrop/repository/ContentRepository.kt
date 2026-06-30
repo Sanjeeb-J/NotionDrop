@@ -10,6 +10,7 @@ import com.sanjeeb.notiondrop.data.remote.NotionBlock
 import com.sanjeeb.notiondrop.data.remote.NotionBlockContent
 import com.sanjeeb.notiondrop.data.remote.NotionCalloutContent
 import com.sanjeeb.notiondrop.data.remote.NotionCodeContent
+import com.sanjeeb.notiondrop.data.remote.NotionDividerContent
 import com.sanjeeb.notiondrop.data.remote.NotionDateValue
 import com.sanjeeb.notiondrop.data.remote.NotionPageRequest
 import com.sanjeeb.notiondrop.data.remote.NotionParent
